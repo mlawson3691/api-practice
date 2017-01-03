@@ -8,6 +8,8 @@
 
 This application is an exercise in modern JavaScript using Node.js and Gulp. Node.js is used to create a local development server, while Gulp manages the project's assets. The app serves as a  In addition, the application is styled with Bootstrap and Sass.
 
+[Check out the live site here.](https://mlawson3691.github.io/api-practice/)
+
 ## Setup/Installation Instructions
 
 * Clone the repository
